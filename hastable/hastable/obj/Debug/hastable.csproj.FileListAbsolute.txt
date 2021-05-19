@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\hastable\hastable\bin\Debug\hastable.exe.config
+C:\Users\User\source\repos\hastable\hastable\bin\Debug\hastable.exe
+C:\Users\User\source\repos\hastable\hastable\bin\Debug\hastable.pdb
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\App.g.cs
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable_MarkupCompile.cache
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable_MarkupCompile.lref
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.g.resources
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.Properties.Resources.resources
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.exe
+C:\Users\User\source\repos\hastable\hastable\obj\Debug\hastable.pdb
